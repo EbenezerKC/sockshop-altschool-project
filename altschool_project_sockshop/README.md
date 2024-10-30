@@ -109,6 +109,4 @@ if the site is not reachable, type it like this:
 
 http://( your external IP):(port)
 
-e.g:
-
-http://45.233.54.1:80
+![sockshop1](https://github.com/user-attachments/assets/fb71a1dd-5dc6-4a9f-be66-a26645f75e12)
